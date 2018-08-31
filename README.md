@@ -1,4 +1,4 @@
-This project is a example of some features of RxSwift.
+This project is a example of some RxSwift features.
 
 Libraries and techniques I used in this project:
 
